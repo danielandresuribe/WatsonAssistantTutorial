@@ -1,5 +1,5 @@
-# conversationMaster
-ConversationMaster is a Botmaster integration for IBM Watson Conversation in parallel to conversation-simple interface.
+# Watson Assistant
+ConversationMaster is a Botmaster integration for IBM Watson Assistant in parallel to conversation-simple interface.
 
 ## Deploy your own chatbot in a few clicks !
 
